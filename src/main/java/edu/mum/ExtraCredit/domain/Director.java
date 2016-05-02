@@ -1,5 +1,5 @@
 package edu.mum.ExtraCredit.domain;
 
-public class Director {
+public class Director extends Person {
 
 }
