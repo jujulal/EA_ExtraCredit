@@ -7,7 +7,7 @@
 		<class>edu.mum.ExtraCredit.domain.Person</class>
 		<class>edu.mum.ExtraCredit.domain.Director</class>
 		<class>edu.mum.ExtraCredit.domain.User</class>
-		<class>edu.mum.ExtraCredit.domain.Actor</class>
+		<class>edu.mum.ExtraCredit.domain.Artist</class>
 		
 		<properties>
 			<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
